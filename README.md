@@ -2,9 +2,9 @@
 
 # Project: CSC_FrontEnd
 
-# Author: John Leung
+## Author: John Leung
 
-# Date: 06/20/2014
+## Date: 06/20/2014
 
 <hr>
 
