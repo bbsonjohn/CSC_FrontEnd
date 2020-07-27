@@ -1,4 +1,4 @@
-# Project: CSC_FrontEnd
+# Project: Cathode Strip Chamber Front-End
 
 <hr>
 
@@ -6,7 +6,7 @@ _Author:_ John Leung
 
 _Date:_ 06/20/2014
 
-_Description:_ The FrontEnd Module for CUHK muon telescope. The program is written using Atmel Software Framework (ASF). It is a program that interfaces the _Atmel Xmega256A3BAU Microcontroller_. The detail function of the program can be found in my [thesis](https://bbsonjohn.github.io/assets/MasterThesis.pdf).
+_Description:_ The FrontEnd Module for the Cathode Strip Chamber (CSC) CUHK muon telescope. The program is written using Atmel Software Framework (ASF). It is a program that interfaces the _Atmel Xmega256A3BAU Microcontroller_. The detail function of the program can be found in my [thesis](https://bbsonjohn.github.io/assets/MasterThesis.pdf).
 
 <hr>
 <br><br>
