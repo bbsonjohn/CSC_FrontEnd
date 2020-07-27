@@ -1,10 +1,10 @@
-<hr>
-
 # Project: CSC_FrontEnd
 
-## Author: John Leung
+<hr>
 
-## Date: 06/20/2014
+_Author:_ *John Leung*
+
+_Date_: *06/20/2014*
 
 <hr>
 
